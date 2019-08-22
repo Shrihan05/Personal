@@ -14,3 +14,10 @@ TASK 2:
   
 ![image](https://user-images.githubusercontent.com/54235546/63538971-a5147d00-c536-11e9-876f-6192c916cf27.png)
 
+ON REDUCING SCREEN SIZE:
+
+![image](https://user-images.githubusercontent.com/54235546/63539320-6e8b3200-c537-11e9-9917-0be7ae372c18.png)
+
+![image](https://user-images.githubusercontent.com/54235546/63539236-397edf80-c537-11e9-8d0d-6d990cb94616.png)
+
+
